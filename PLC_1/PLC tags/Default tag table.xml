@@ -13,7 +13,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%M0.0</LogicalAddress>
-          <Name>Tag_11</Name>
+          <Name>Tag-1</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="2" CompositionName="Comment">
@@ -35,7 +35,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%M0.1</LogicalAddress>
-          <Name>Tag_2</Name>
+          <Name>Tag-2</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="5" CompositionName="Comment">
